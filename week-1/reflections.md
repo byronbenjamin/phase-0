@@ -36,6 +36,46 @@ make directory
 
 remove directory
 
+#The Command Line Reflection
+
+1. A shell is a user interface for access to an operating system's services. Bash is the command processor where the user types there commands.
+
+2. The most challenging thing was gathering all of the information given. It was a lot and it was my first time working with the command line.
+
+3. Yes I was
+
+4. I think the most important are pwd, ls, mv, mkdir, rmdir
+
+5. print working directory
+
+list directory
+
+move directory or file
+
+change directory
+
+move up
+
+make directory
+
+remove directory
+
+#Forking and Cloning Reflection
+
+First open your github account. In the top right corner of the page youll see a "+" sign. That sign creates a new repository. click it.
+
+Second, go to the page you want to fork. Click the "Fork" button at the top right of the repository page.
+
+Lastly open your new forked repository page and copy the information in "clone url"
+
+open your terminal and go to the location where your phase 0 content is saved.
+
+type in: git clone "enter copied url here"
+
+wait a copied seconds for the url to be cloned and youre done.
+
+I did not have any problems setting this up. The instructions were pretty clear and straight. Overall i learned how to set up a repository. This was my first time doing this.
+
 
 
 
