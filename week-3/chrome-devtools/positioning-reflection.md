@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+[1](/week-3/imgs/Change the colors.png)
+[2](/week-3/imgs/Column.png)
+[3](/week-3/imgs/Row.png)
+[4](/week-3/imgs/Make Equidistant.png)
+[5](/week-3/imgs/Squares.png)
+[6](/week-3/imgs/Footer .png)
+[7](/week-3/imgs/Header.png)
+[8](/week-3/imgs/Sidebar.png)
+[9](/week-3/imgs/Get Creative.png)
+=======
 ![1](/week-3/imgs/chrome-devtools/Change the colors.png)
 ![2](/week-3/imgs/chrome-devtools/Column.png)
 ![3](/week-3/imgs/chrome-devtools/Row.png)
@@ -7,6 +18,7 @@
 ![7](/week-3/imgs/chrome-devtools/Header.png)
 ![8](/week-3/imgs/chrome-devtools/Sidebar.png)
 ![9](/week-3/imgs/chrome-devtools/Get Creative.png)
+>>>>>>> master
 
 **How can you use Chrome's DevTools inspector to help you format or position elements?**
 
