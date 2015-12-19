@@ -1,0 +1,142 @@
+body {
+  color: #000080;
+}
+
+a {
+  color: #800080;
+
+}
+
+a:visited {
+  color: #ff0000;
+}
+
+html {
+  background-color: #ffffff ;
+
+}
+
+.left {
+  float: left;
+  padding-left: 70px;
+  line-height: 40px;
+
+
+}
+
+.right {
+  float: left;
+  padding-left: 70px;
+  line-height: 40px;
+
+}
+
+.logo {
+  color: #000080;
+  text-align: center;
+  line-height: 15%;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+
+
+.line {
+  background-color: blue;
+
+}
+
+.border {
+  border-bottom: 1px solid black;
+  margin-bottom:10px;
+
+}
+
+
+.address {
+  padding-top: -25px;
+}
+
+.city {
+  padding-top: -20px;
+}
+
+.geico  {
+  text-align: center;
+  line-height: 10%;
+  font-size: 10px;
+  clear: both;
+}
+
+.address  {
+  font-size: 12px;
+  padding-top: 8px;
+}
+
+.city{
+  font-size: 12px;
+}
+
+.big {
+  font-size: 35px;
+  letter-spacing: -5px;
+
+}
+
+.half-word {
+  font-weight: bold;
+  font-size: 20px;
+  letter-spacing: -.5px;
+
+}
+
+.home {
+  font-weight: bold;
+}
+
+.comments {
+  font-size: 14px;
+}
+
+.copyright {
+  font-size: 10px;
+}
+
+.links {
+  font-size: 10px;
+  margin-top: -20px;
+}
+
+ul {
+  padding-right: 20px;
+}
+
+/*
+
+What is important to know when linking an external file (like a stylesheet) to an HTML file?
+
+It is important to know what tags to use and its important to know where exactly to link the file.
+
+What tricks did you use to help you with positioning?
+
+When working with positioning I would move things little by little just to see how it would move. Then i would add more or less to place it where i wanted.
+
+How hard was it to get the site as you wanted it?
+
+It was very difficult at first. When you look at the real site and look at what you have to change on yours, it looks difficult. But when you break it down by sections it makes it easier to handle.
+
+What CSS did you use to modify the element style (like size, color, etc.)
+
+we used background-color, color, margin-top, bottom-border, padding-right,font-weight, letter-spacing,line-height,font-size.
+
+Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?
+
+Yes, We modified the HTML to include classes. We used classes because you can use them on more than one element which is better for working on elements that share the same CSS.
+
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+
+The actual code was cleaner. It was done more professionally. They also used some short cuts and different tags that we havent been exposed to yet.
+I tried to indent my code similiar to there to make it readable.
+
+
+*/
