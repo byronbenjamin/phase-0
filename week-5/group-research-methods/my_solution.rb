@@ -20,20 +20,20 @@ end
 #
 
 # Person 2
-def my_array_modification_method!(source, thing_to_modify)
+def my_array_modification_method!(arr, pets_to_add)
   # This line is here to make sure all tests initially fail. Delete it when you begin coding.
-  source.map! do |x|
+  arr.map! do |x|
     if x.is_a?(Integer)
-      (x + thing_to_modify)
+      (x + pets_to_add)
     else
        x
     end
   end
 end
 
-def my_hash_modification_method!(source, thing_to_modify)
+def my_hash_modification_method!(hsh, years_to_add)
    # This line is here to make sure all tests initially fail. Delete it when you begin coding.
-   source.each { |k, v| source[k] = v + thing_to_modify }
+   hsh.each { |k, v| hsh[k] = v + years_to_add }
 end
 
 =begin
@@ -41,9 +41,9 @@ end
 
   In the two methods abovce I used .map! and .each.
 
-  In the first method I used .map!. .map! invokes the given block once for each element of self, replacing the element with the value returned by the block. In the first method, .map! loops through the source array and checks to see if the element is a integer or not. If the element is a integer it adds thing_to_modify and if its not a integer it returns the element being looped at that time.
+  In the first method I used .map!. .map! invokes the given block once for each element of self, replacing the element with the value returned by the block. In the first method, .map! loops through the array and checks to see if the element is a integer or not. If the element is a integer it adds pets_to_add and if its not a integer it returns the element being looped at that time.
 
-  In the second method I used .each. .each calls the block once for each key in hash, passing the key-value pair as parameters. In the second method, while the key and value were being looped through, the key is returned. At the same time the key is set to the sum of the value and thing_to_modify and returned.
+  In the second method I used .each. .each calls the block once for each key in hash, passing the key-value pair as parameters. In the second method, while the key and value were being looped through, the key is returned. At the same time the key is set to the sum of the value and years_to_add and returned.
 =end
 
 # Person 3
