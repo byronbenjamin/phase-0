@@ -71,3 +71,27 @@ groups = arr.shuffle
 end
 
   p make_groups(roster)
+
+=begin
+
+What was the most interesting and most difficult part of this challenge?
+
+The most interesting thing in this challenge was using the shuffle method and getting a different result every time.
+
+The most difficult part was figuring out how to get the group to be at least 5 members but no less than 3.
+
+Do you feel you are improving in your ability to write pseudocode and break the problem down?
+
+Yes I feel like im improving.
+
+Was your approach for automating this task a good solution? What could have made it even better?
+
+No, I was not able to find anything that would change my code significantly.
+
+What data structure did you decide to store the accountability groups in and why?
+
+I stored the groups in a array. I think it was the easiest way. It stored a group of names in individual strings.
+
+What did you learn in the process of refactoring your initial solution? Did you learn any new Ruby methods?
+
+=end
