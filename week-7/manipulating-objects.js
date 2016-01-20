@@ -55,12 +55,16 @@ adam.children = terah.children;
 //
 // What tests did you have trouble passing? What did you do to make it pass? Why did that work?
 
+//I had trouble with test 8 but I realized I had to create a new object for that  child and then add it.
 
 
 // How difficult was it to add and delete properties outside of the object itself?
+
+// It wasn't too hard. The delete method is simple to use. It took me a while to figure out how to add to the object but once i figured it out it was simple.
+
 // What did you learn about manipulating objects in this challenge?
 
-//
+// I learned that you can add to objects, delete from objects, and change values and properties within the object.
 //
 //
 //
